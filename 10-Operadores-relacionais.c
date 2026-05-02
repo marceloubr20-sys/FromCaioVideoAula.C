@@ -16,6 +16,7 @@ void main(){
     printf("a == b: %i\n", a == b);
     //diferente
     printf("a != b: %i\n", a != b);
+    
 
 
 
