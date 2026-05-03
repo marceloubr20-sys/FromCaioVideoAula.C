@@ -17,6 +17,8 @@ void main(){
     //diferente
     printf("a != b: %i\n", a != b);
     
+    //operadores relacionais podem ser usados em expressões mais complexas
+    printf("a < b && a != b: %i\n", a < b && a != b); // && é o operador lógico "E"
 
 
 
