@@ -30,7 +30,7 @@
     %f → Número com casas decimais
     %c → Caractere
     %s → string ou array de caracteres
-    %i → i de inteiro (pode ser usado para int e unsigned int)
+    %i → i de inteiro (pode ser usado para int)
     %u → u de unsigned (é usado para unsigned int)
     %li → l de long (pode ser usado para long int e unsigned long int)
     %e → e de exponencial (pode ser usado para float, double e long double)
